@@ -1,3 +1,7 @@
+<?php
+
+?>
+
 
 <!DOCTYPE HTML>
 <html lang="">
@@ -5,7 +9,7 @@
     <style>
         .error {color: #FF0000;}
     </style>
-    <title>PHP Validation</title>
+    <title></title>
 </head>
 <body>
 
